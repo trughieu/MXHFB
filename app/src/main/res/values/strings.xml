@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nhom04_NguyenTrungHieu_CaoTuanKiet_NgoThiThanhNgan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="your_story">Tin của bạn</string>
+    <string name="notify">Thông báo</string>
+
+    <string name="logout">Đăng xuất</string>
+    <string name="setting">Cài đặt</string>
+    <string name="photo">Ảnh/Video</string>
+    <string name="tag">Gắn thẻ người khác</string>
+    <string name="emoji">Cảm xúc/Hoạt động</string>
+    <string name="checkin">Check in</string>
+    <string name="stream">Video trực tiếp</string>
+
+</resources>
